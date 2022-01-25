@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "chickens:items/bait",
-    "layer1": "chickens:items/bait_overlay"
-  }
-}

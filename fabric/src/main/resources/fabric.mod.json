@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "chickens",
+  "version": "${version}",
+  "name": "More Chickens",
+  "description": "A mod that extends Chickens",
+  "authors": [
+    "cnlimiter",
+    "MikhailTapio"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/chickens/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.evolvefield.mods.morechickens.fabric.MoreChickens"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": ">=1.18",
+    "architectury": ">=1.1.55"
+  }
+}

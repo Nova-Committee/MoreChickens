@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[39,)"
+license = "GNU GPLv3"
+
+[[mods]]
+modId = "chickens"
+version = "${version}"
+displayName = "More Chickens"
+logoFile="chickens_logo.png"
+
+authors = "cnlimiter, Tapio"
+description = '''
+A mod that extends Chickens
+'''
+
+[[dependencies.chickens]]
+modId = "forge"
+mandatory = true
+versionRange = "[39,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.chickens]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.chickens]]
+modId = "architectury"
+mandatory = true
+versionRange = "[3.4.9,)"
+ordering = "AFTER"
+side = "BOTH"
