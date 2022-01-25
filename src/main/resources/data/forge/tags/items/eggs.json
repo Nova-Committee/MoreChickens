@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "chickens:egg_white",
+    "chickens:egg_blue",
+    "chickens:egg_black",
+    "chickens:egg_magenta",
+    "chickens:egg_lime",
+    "chickens:egg_yellow",
+    "chickens:egg_purple",
+    "chickens:egg_green",
+    "chickens:egg_light_gray",
+    "chickens:egg_light_blue",
+    "chickens:egg_cyan",
+    "chickens:egg_red",
+    "chickens:egg_pink",
+    "chickens:egg_orange",
+    "chickens:egg_gray",
+    "chickens:egg_brown"
+  ]
+}
