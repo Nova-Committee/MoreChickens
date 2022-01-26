@@ -18,4 +18,3 @@ Chickens lay eggs. Sometimes drop feather. You can throw eggs. That's it. SO BOO
 
 ## Planned Features
 - Support more mods
-- 
